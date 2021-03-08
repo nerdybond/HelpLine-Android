@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">HelpMeOut</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_twentyfour">24/7 Helplines</string>
+    <string name="menu_crisis">Crisis Prevention</string>
+    <string name="menu_trauma">Domestic and Trauma</string>
+    <string name="menu_depression">Depression and Anxiety</string>
+    <string name="menu_women">Women and LGBT</string>
+    <string name="menu_states">State Help</string>
+
+    <string name="button_MensLine"> <big><b><u>MensLine</u></b></big> <small> \nA national support line for men 24/7</small></string>
+    <string name="button_BeyondBlue"> <big><b><u>BeyondBlue</u></b></big> <small> \nSupport for anxiety, depression, and suicide.</small> </string>
+    <string name="button_LifeLine"> <b><big><u>LifeLine</u></big></b> <small> \nA crisis support and suicide prevention service. </small> </string>
+    <string name="button_KidsHelpline"> <b><big><u>Kids Helpline</u></big></b> <small>\nA friendly place  to call for young people aged 5 to 25.</small> </string>
+    <string name="button_RESPECT1800"> <b><big><u>1800RESPECT</u></big></b> <small>\nNational assault and family violence support line.</small> </string>
+    <string name="button_SuicideCBS"> <b><big><u>Suicide Callback Service</u></big></b> <small>\nSupport for anyone affected by suicide.</small> </string>
+    <string name="button_AHSSS"> <b><big><u>All Hours Suicide Support Service</u></big></b> <small>\nDesigned to support clients at anytime of the day. </small> </string>
+    <string name="button_SANE"> <b><big><u>SANE Australia</u></big></b> <small>\nEnabling those with a mental illness to lead a better life. \n(10am-10pm/5days).</small> </string>
+    <string name="button_BlueKnot"> <b><big><u>Blue Knot Foundation</u></big></b> <small>\nSupport for adult survivors of childhood trauma and abuse. <br/> (9am-5pm).</small> </string>
+    <string name="button_OpenArms"> <b><big><u>Open Arms</u></big></b> <small>\nSupport for War and Service related mental health conditions.</small> </string>
+    <string name="button_MenRS"> <b><bigh1><u>Men Referral Service</u></bigh1></b> <small>\nCounselling to men who use family violence.</small> </string>
+    <string name="button_Eheadspace"> <b><big><u>EHeadSpace</u></big></b> <small>\nMental health support and services to people aged 12 to 25 years.</small> </string>
+    <string name="button_MindSpot"> <b><big><u>MindSpot</u></big></b> <small>\nSupport for people with stress, worry, anxiety, low mood or depression.</small> </string>
+    <string name="button_SAMSN"> <b><big><u>SAMSN</u></big></b> <small>\nSupport for adult survivors of childhood trauma. \n(9am-5pm).</small> </string>
+    <string name="button_Qlife"> <b><big><u>Qlife</u></big></b> <small>\nSupport for LGBT people. \n(3pm-midnight). </small> </string>
+    <string name="button_PANDA"> <b><big><u>PANDA</u></big></b> <small>\nPerinatal Anxiety and Depression Australia.</small> </string>
+    <string name="button_RelationshipsAus"> <b><big><u>Relationships Australia</u></big></b> <small>\nSupport groups and counselling on relationships.</small> </string>
+    <string name="button_ParentLife"> <b><big><u>Parent Life</u></big></b> <small>\nFree counselling and support for parents and carers.</small> </string>
+
+
+    <string name="button_NSW"><big><u><b>NSW</b></u></big> <small>\nNSW Mental Health Line.</small> </string>
+    <string name="button_QLD"><big><u><b>QLD</b></u></big> <small>\nQLD Mental Health Line.</small> </string>
+    <string name="button_SA"><big><u><b>SA</b></u></big> <small>\nSA Mental Health Line.</small> </string>
+    <string name="button_NT"><big><u><b>NT</b></u></big> <small>\nNT Mental Health Line.</small> </string>
+    <string name="button_WA"><big><u><b>WA</b></u></big> <small>\nWA Mental Health Line.</small> </string>
+    <string name="button_TAS"><big><u><b>TAS</b></u></big> <small>\nTAS Mental Health Line.</small> </string>
+    <string name="button_VIC"> <big><u><b>HeadToHelp</b></u></big> <small>\nVIC Mental Health Line \n(9am-5pm).</small> </string>
+    <string name="button_National"><big><u><b>National</b></u></big> <small>\nNational Mental Health Line.</small> </string>
+
+
+    <string name="main_title">HelpMeOut</string>
+    <string name="main_descriptionHeader"><big>Your assistant anytime your need to call up an Australian Helpline. <br/> Help is only a few taps away.</big></string>
+    <string name="main_descriptionBody">Need help to get started? Swipe across, or pick a menu from the options below, tap a Helpline, and talk with someone now.</string>
+
+    <string name="button1">24 Hour Help</string>
+    <string name="button2">Family and Trauma</string>
+    <string name="button3">Depression and Anxiety</string>
+    <string name="button4">Crisis Support Lines</string>
+    <string name="main_bottom">Have a question?</string>
+    <string name="main_email"> Send me a message :)</string>
+
+    <string name="button_Emergency000">Emergency (000)</string>
+
+
+
+</resources>

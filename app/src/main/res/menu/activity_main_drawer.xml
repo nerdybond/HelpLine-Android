@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_twentyfour"
+            android:title="@string/menu_twentyfour" />
+        <item
+            android:id="@+id/nav_crisis"
+            android:title="@string/menu_crisis" />
+        <item
+            android:id="@+id/nav_trauma"
+            android:title="@string/menu_trauma" />
+        <item
+            android:id="@+id/nav_depression"
+            android:title="@string/menu_depression" />
+        <item
+            android:id="@+id/nav_women"
+            android:title="@string/menu_women" />
+        <item
+            android:id="@+id/nav_states"
+            android:title="@string/menu_states" />
+    </group>
+</menu>

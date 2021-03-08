@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.michaelbond.helpmeout.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_twentyfour"
+        android:name="com.michaelbond.helpmeout.ui.twentyfourseven.TwentyFourSevenFragment"
+        android:label="@string/menu_twentyfour"
+        tools:layout="@layout/fragment_twentyfour" />
+
+
+    <fragment
+        android:id="@+id/nav_crisis"
+        android:name="com.michaelbond.helpmeout.ui.crisis.CrisisFragment"
+        android:label="@string/menu_crisis"
+        tools:layout="@layout/fragment_crisis" />
+
+    <fragment
+        android:id="@+id/nav_trauma"
+        android:name="com.michaelbond.helpmeout.ui.trauma.TraumaFragment"
+        android:label="@string/menu_trauma"
+        tools:layout="@layout/fragment_trauma" />
+
+
+    <fragment
+        android:id="@+id/nav_depression"
+        android:name="com.michaelbond.helpmeout.ui.depression.DepressionFragment"
+        android:label="@string/menu_depression"
+        tools:layout="@layout/fragment_depression" />
+
+    <fragment
+        android:id="@+id/nav_women"
+        android:name="com.michaelbond.helpmeout.ui.women.WomenFragment"
+        android:label="@string/menu_women"
+        tools:layout="@layout/fragment_women" />
+
+
+    <fragment
+        android:id="@+id/nav_states"
+        android:name="com.michaelbond.helpmeout.ui.states.StatesFragment"
+        android:label="@string/menu_states"
+        tools:layout="@layout/fragment_states" />
+</navigation>
