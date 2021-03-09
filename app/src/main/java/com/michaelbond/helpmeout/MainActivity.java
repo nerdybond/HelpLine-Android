@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        /*
+        /* Additional line to see whether GitHub picks this up.
         // Method to make toolbar blur. Will need to change appBar to refer to another Id, as this currently crashes app.
 
         final AppBarLayout appBar = findViewById(R.id.nav_home);
