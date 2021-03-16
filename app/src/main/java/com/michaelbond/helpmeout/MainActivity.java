@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 .build();
 
         //NavigationHost/Navigation Controller initialization - this is the section which keeps crashing the app at the moment. Trying to figure out the exact problem.
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_container);
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
 
@@ -94,14 +94,14 @@ public class MainActivity extends AppCompatActivity {
 
 
         }
-/*
+
     @Override
     public boolean onSupportNavigateUp() {
-        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_container);
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
     }
-*/
+
     /* Class to declare notifications within the app.
     class Receiver extends BroadcastReceiver {
 
