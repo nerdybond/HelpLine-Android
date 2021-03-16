@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 .setDrawerLayout(drawer)
                 .build();
 
-        //NavigationHost/Navigation Controller initialization - this is the section which keeps crashing the app at the moment. Trying to figure out the exact problem.
+        //NavigationHost problem resolved, required navController to not have been deleted from content_main.
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
